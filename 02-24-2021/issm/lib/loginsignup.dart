@@ -12,6 +12,7 @@ class LoginSignUp extends StatefulWidget {
 
 var firstColor = Color(0xff0477c2), secondColor = Color(0xff0082c4);
 
+//asdasdasss
 class _LoginSignUp extends State<LoginSignUp> {
   @override
   Widget build(BuildContext context) {
