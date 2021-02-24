@@ -17,7 +17,7 @@ void main() async {
   runApp(MyApp());
 }
 
-//aaaaaaaaaaaaaaaaaaaaaXXXXXXXXXXXaASDASDASDADA
+//X
 class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
